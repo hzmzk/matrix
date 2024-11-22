@@ -1,2 +1,2 @@
 # matrix
-This is a matrix class
+Work-in-Progress matrix repository
