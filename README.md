@@ -1,2 +1,2 @@
 # matrix
-Work-in-Progress matrix repository
+Work-in-Progress statistics repository
